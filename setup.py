@@ -8,7 +8,7 @@ Usage:
 from setuptools import setup
 
 APP = ['./src/bob.py']
-DATA_FILES = []
+DATA_FILES = ['lofiHipHop.mp3','moyai.png','doggy.jpeg','Death.png','start.png']
 OPTIONS = {}
 
 setup(
